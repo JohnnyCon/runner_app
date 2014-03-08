@@ -44,6 +44,12 @@ Participant.create(race: sham, runner: bill, completed:true, time: 51, winner:fa
 Participant.create(race: sham, runner: vero, completed:true, time: 44, winner:false)
 Participant.create(race: sham, runner: jeter, completed:true, time: 50, winner:false)
 
+Participant.create(race: sold, runner: john, completed:true, time: 122, winner:false)
+Participant.create(race: sold, runner: rose, completed:true, time: 80, winner:true)
+Participant.create(race: sold, runner: james, completed:true, time: 113, winner:false)
+Participant.create(race: sold, runner: jeter, completed:true, time: 120, winner:false)
+
+
 
 
 
