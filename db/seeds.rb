@@ -31,5 +31,19 @@ bill = Runner.create(name: "Bill Donalds", age: 24, city: "Aurora", state: il)
 vero = Runner.create(name: "Veronica Ramsey", age: 52, city: "San Diego", state: ca)
 jeter = Runner.create(name: "Derek Jeter", age: 38, city: "New York City", state: ny)
 
+Participant.create(race: sham, runner: john, completed:true, time: 51, winner:false)
+Participant.create(race: sham, runner: gonz, completed:true, time: 34, winner:false)
+Participant.create(race: sham, runner: hawk, completed:true, time: 45, winner:false)
+Participant.create(race: sham, runner: bobby, completed:false, time: nil, winner:false)
+Participant.create(race: sham, runner: rose, completed:true, time: 23, winner:false)
+Participant.create(race: sham, runner: kobe, completed:true, time: 35, winner:false)
+Participant.create(race: sham, runner: james, completed:true, time: 42, winner:false)
+Participant.create(race: sham, runner: wade, completed:true, time: 23, winner:false)
+Participant.create(race: sham, runner: tory, completed:true, time: 46, winner:false)
+Participant.create(race: sham, runner: bill, completed:true, time: 51, winner:false)
+Participant.create(race: sham, runner: vero, completed:true, time: 44, winner:false)
+Participant.create(race: sham, runner: jeter, completed:true, time: 50, winner:false)
+
+
 
 
